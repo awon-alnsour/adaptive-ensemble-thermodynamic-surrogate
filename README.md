@@ -124,4 +124,4 @@ main.py / pd_convergence.py / in718.py
 
 ## Authors
 
-Awon · Youssef · Daria — ELE469, University of Sheffield
+Awon Alnsour — ELE469, University of Sheffield
