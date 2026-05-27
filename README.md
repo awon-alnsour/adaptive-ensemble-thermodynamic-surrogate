@@ -1,4 +1,4 @@
-# Mg-Ca-Zn Diffusion Surrogate
+# Machine Learning Surrogate Models for CALPHAD-Based Diffusion Simulation in the Mg-Ca-Zn Ternary Alloy System
 ### ELE469 Industry Training Programme
 
 A data-efficient machine learning surrogate that replaces CALPHAD-DICTRA thermodynamic calculations for homogenisation simulation of Mg-Ca-Zn ternary alloys. The final model (Ensemble v3) achieves ≥95% accuracy on all seven outputs using **250 adaptively selected CALPHAD simulations** — a 99.7% reduction from the 75,000-point full dataset.
